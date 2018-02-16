@@ -14,22 +14,21 @@ func randomNumGen(choice int) int {
 	source := rand.NewSource(time.Now().UnixNano())
 	ranVal := rand.New(source)
 
-	if choice == 1 {	// d6 roll
+	switch choice {
+	case 1:
 		die = ranVal.Intn(6)
-	} else if choice == 2 {	//d10 roll
+	case 2:
 		die = ranVal.Intn(10)
-	} else if choice == 3 {	//d100 roll
+	case 3:
 		die = ranVal.Intn(100)
-	} else if choice == 4 {	//d4 roll
+	case 4:
 		die = ranVal.Intn(4)
-	} else if choice == 5 {	//d8 roll
+	case 5:
 		die = ranVal.Intn(8)
-	} else if choice == 6 {	//d12 roll
+	case 6:
 		die = ranVal.Intn(12)
-	} else if choice == 7 {	//d20 roll
+	case 7:
 		die = ranVal.Intn(20)
-	} else {
-		fmt.Println("Invalid number input")
 	}
 	return die
 }
