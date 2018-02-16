@@ -16,19 +16,19 @@ func randomNumGen(choice int) int {
 
 	switch choice {
 	case 1:
-		die = ranVal.Intn(6)
+		die = ranVal.Intn(6) + 1
 	case 2:
-		die = ranVal.Intn(10)
+		die = ranVal.Intn(10) + 1
 	case 3:
-		die = ranVal.Intn(100)
+		die = ranVal.Intn(100) + 1
 	case 4:
-		die = ranVal.Intn(4)
+		die = ranVal.Intn(4) + 1
 	case 5:
-		die = ranVal.Intn(8)
+		die = ranVal.Intn(8) + 1
 	case 6:
-		die = ranVal.Intn(12)
+		die = ranVal.Intn(12) + 1
 	case 7:
-		die = ranVal.Intn(20)
+		die = ranVal.Intn(20) + 1
 	}
 	return die
 }
@@ -45,6 +45,7 @@ func multiDie(diceNum, dieType int) int {
 	return finalRoll
 }
 
+//test submits various dice combinations to check the results
 func test()  {
 	_1d6 := multiDie(1, 1)
 	fmt.Println("1d6 =", _1d6)
@@ -64,6 +65,7 @@ func test()  {
 	fmt.Println("1d100 =", d100)
 	}
 
+//main calls test() function
 func main() {
 	test()
 }
