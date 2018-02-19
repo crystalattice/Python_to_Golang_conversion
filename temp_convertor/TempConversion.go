@@ -5,7 +5,7 @@ import "fmt"
 
 //CtoF converts Celsius to Fahrenheit
 func CtoF(celsius float64) float64 {
-	fahr := ((9.0/5.0) * celsius) + 32
+	fahr := ((9.0 / 5.0) * celsius) + 32
 	return fahr
 }
 
