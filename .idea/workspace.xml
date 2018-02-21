@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31044638-29e3-4177-9495-2975fc463057" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../PythonToGolangConversion/.idea/Python_conversion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonToGolangConversion/dice_roller/randomDiceRoller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonToGolangConversion/dice_roller/randomDiceRoller.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TempConversion.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/temp_convertor/TempConversion.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="87" selection-start-column="87" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttributeGenerator.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/attrib_generator/AttributeGenerator.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomDiceRoller.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/DiceRoller/RandomDiceRoller.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.9" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PythonToGolangConversion" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temp_convertor/FtoC.go" />
+        <option value="$PROJECT_DIR$/temp_convertor/selectable_temp_conversion.go" />
+        <option value="$PROJECT_DIR$/temp_convertor/TempConversion.go" />
+        <option value="$PROJECT_DIR$/attrib_generator/AttributeGeneratore.go" />
+        <option value="$PROJECT_DIR$/../PythonToGolangConversion/attrib_generator/AttributeGenerator.go" />
+        <option value="$PROJECT_DIR$/../PythonToGolangConversion/DiceRoller/RandomDiceRoller.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1837" />
+    <option name="y" value="110" />
+    <option name="width" value="1017" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_to_Golang_conversion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonToGolangConversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_to_Golang_conversion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonToGolangConversion" type="462c0819:PsiDirectoryNode" />
+              <item name="attrib_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_to_Golang_conversion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonToGolangConversion" type="462c0819:PsiDirectoryNode" />
+              <item name="DiceRoller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="false" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="PythonConversion" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="Python_to_Golang_conversion" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build TempConversion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PythonConversion" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/temp_convertor/TempConversion.go" />
+      <package value="Python_to_Golang_conversion" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="PythonConversion" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="Python_to_Golang_conversion" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build TempConversion.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1679" y="102" width="1682" height="1023" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249694" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="After compilation and formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="After compilation and formatting" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/temp_convertor/TempConversion.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="87" selection-start-column="87" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/attrib_generator/AttributeGenerator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonToGolangConversion/DiceRoller/RandomDiceRoller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
